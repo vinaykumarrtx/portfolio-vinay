@@ -34,7 +34,7 @@ import ccet from "/src/assets/collegelogo.png";
 import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 import recruitment from "./recruitment.png";
-import huntly from "./huntly.png";
+import huntly from "./huntly.png";  
 import oracle from "./oracle.jpg";
 import comicify_ai from "./fittrack.jpg";
 import greentrust from "/src/assets/STOCK.jpg";
