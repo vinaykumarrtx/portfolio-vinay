@@ -30,7 +30,7 @@ import portfolio from "/src/assets/portfolio.jpg";
 import zulip from "./zulip.jpg";
 import publiclab from "./publiclab.png";
 import cdc from "/src/assets/footer-logo.png";
-import ccet from "/src/assets/collegeLogo.png";
+import ccet from "/src/assets/collegelogo.png";
 import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 import recruitment from "./recruitment.png";
